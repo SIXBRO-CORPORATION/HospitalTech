@@ -8,8 +8,7 @@ O sistema deve permitir login com usuário e senha.
 ## RF02 — Controle de Acesso por Perfil
 O sistema deve diferenciar permissões entre:
 - Analista de Dados
-- Gestor Hospitalar
-- Coordenador de Setor
+- Gestor Hospitalar/Coordenador de Setor
 
 ---
 
