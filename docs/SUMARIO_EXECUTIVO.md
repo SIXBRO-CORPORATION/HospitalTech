@@ -10,7 +10,7 @@ O sistema proposto consiste em uma plataforma web com acesso restrito, voltada p
 
 A solução tem como foco central automatizar o tratamento de dados, reduzindo o esforço manual e acelerando a obtenção de informações relevantes para a gestão hospitalar.
 
-1. Problema Identificado
+2. Problema Identificado
 
 Atualmente, os dados hospitalares são obtidos de diferentes fontes, como formulários, sistemas médicos e prontuários eletrônicos, sendo posteriormente organizados manualmente em planilhas.
 
@@ -23,7 +23,7 @@ Os principais problemas desse processo são:
 
 Além disso, embora o compartilhamento de dados seja limitado, o principal gargalo está na demora e complexidade da análise dos dados.
 
-1. Objetivo do Sistema
+3. Objetivo do Sistema
 
 O sistema tem como principal objetivo:
 
@@ -34,14 +34,14 @@ O sistema tem como principal objetivo:
 
 Como objetivo secundário, o sistema também permitirá a visualização e o compartilhamento dos indicadores entre diferentes setores.
 
-1. Público-Alvo
+4. Público-Alvo
 
 O sistema será utilizado por:
 
 - Coordenadores de setores (ex: UTI);
 - Gestores hospitalares;
 - Profissionais responsáveis pela análise de dados.
-1. Funcionalidades Principais
+5. Funcionalidades Principais
 
 O sistema contará com as seguintes funcionalidades:
 
@@ -52,7 +52,7 @@ O sistema contará com as seguintes funcionalidades:
 - Visualização de gráficos e relatórios;
 - Organização dos dados por período (mensal, trimestral, etc.);
 - Navegação por setores hospitalares.
-1. Benefícios Esperados
+6. Benefícios Esperados
 
 Com a implementação do sistema, espera-se:
 
