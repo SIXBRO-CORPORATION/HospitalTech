@@ -16,30 +16,8 @@ Foi realizado o estudo do fluxo atual de tratamento dos dados hospitalares, obse
 ## Pesquisa de Sistemas Semelhantes
 Foram analisadas soluções existentes para identificar funcionalidades comuns e boas práticas relacionadas à geração de indicadores e visualização de dados.
 
-# 2. Requisitos Levantados
 
-## Requisitos Funcionais (RF)
-
-RF01 – O sistema deve permitir autenticação através de login.
-RF02 – O sistema deve permitir upload de planilhas contendo dados hospitalares.
-RF03 – O sistema deve processar automaticamente os dados enviados.
-RF04 – O sistema deve gerar indicadores hospitalares automaticamente.
-RF05 – O sistema deve apresentar gráficos e relatórios para visualização dos resultados.
-RF06 – O sistema deve permitir filtragem por períodos específicos.
-RF07 – O sistema deve organizar informações por setores hospitalares.
-RF08 – O sistema deve permitir compartilhamento de indicadores entre setores autorizados.
-
-## Requisitos Não Funcionais (RNF)
-
-RNF01 – O sistema deve possuir interface intuitiva e de fácil utilização.
-RNF02 – O processamento das planilhas deve ocorrer em tempo adequado.
-RNF03 – O sistema deve restringir acesso apenas a usuários autorizados.
-RNF04 – O sistema deve garantir integridade dos dados enviados.
-RNF05 – O sistema deve estar disponível em ambiente web.
-RNF06 – O sistema deve permitir expansão futura para novas funcionalidades.
-
-
-# 3. Escopo do Sistema
+# 2. Escopo do Sistema
 
 ## O sistema irá:
 
@@ -61,7 +39,7 @@ RNF06 – O sistema deve permitir expansão futura para novas funcionalidades.
 - Desenvolver aplicativo mobile nesta etapa do projeto.
 
 
-# 4. Delimitação do Projeto
+# 3. Delimitação do Projeto
 
 O escopo foi definido considerando o tempo disponível para desenvolvimento durante a disciplina, priorizando funcionalidades essenciais relacionadas à automatização da análise hospitalar
 e geração de indicadores. Funcionalidades mais complexas serão consideradas para futuras versões.
